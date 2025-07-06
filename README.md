@@ -21,9 +21,9 @@ A modern, responsive full-stack web application to **track personal expenses**. 
 
 ## 🌐 Live Demo
 
-🔗 [Live App on Vercel](https://personal-finance-visualizer.vercel.app)
+🔗 [Live App on Vercel](https://personal-finance-visualizer-stage-1-gold.vercel.app/)
 
-📦 [GitHub Repository](https://github.com/KishanThorat111/personal-finance-visualizer)
+📦 [GitHub Repository](https://github.com/KishanThorat111/personal-finance-visualizer-stage-1)
 
 ---
 
@@ -87,7 +87,7 @@ personal-finance-visualizer/
 ### ✅ Step 1: Clone the repo
 
 ```bash
-git clone https://github.com/KishanThorat111/personal-finance-visualizer.git
+git clone https://github.com/KishanThorat111/personal-finance-visualizer-stage-1.git
 cd personal-finance-visualizer
 ```
 
@@ -148,7 +148,7 @@ MIT License © 2025 [Kishan Thorat](https://github.com/KishanThorat111)
 
 ## 🤝 Connect
 
-💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
+💼 [LinkedIn]( https://linkedin.com/in/kishanthorat)  
 💻 [GitHub](https://github.com/KishanThorat111)
 
 ---
